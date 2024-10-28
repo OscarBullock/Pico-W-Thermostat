@@ -8,6 +8,7 @@ Hardware
 
 **Core Electronics hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
 
+
 Note: This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 You are free to:
