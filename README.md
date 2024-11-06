@@ -19,7 +19,7 @@ Displays the following on the **screen**:
   
 # Link:
    Here is the link to our document: 
-   <https://cgsacteduau-my.sharepoint.com/:w:/r/personal42432_cgs_act_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B406351A4-1C10-4902-99F5-99845B5873A8%7D&file=IoT%20rasberry%20pico%20project%20documentation.docx&action=default&mobileredirect=true>
+   <https://cgsacteduau-my.sharepoint.co`m/:w:/r/personal42432_cgs_act_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B406351A4-1C10-4902-99F5-99845B5873A8%7D&file=IoT%20rasberry%20pico%20project%20documentation.docx&action=default&mobileredirect=true>
 
 # The program
 To load an image use **![The alt text]**
@@ -58,7 +58,7 @@ while True:
 
     display.text("Pres: "+str(pres_hPa)+" hPa", 0, 10, 1)
     display.text("Hum: "+str(humRH)+" %", 0, 20, 1)
-    display.text("Oscar and Ben", 0, 30, 1)
+    display.text("By Oscar and Ben", 0, 30, 1)
     display.show()
 
     sleep_ms(1000) # wait 1 second
